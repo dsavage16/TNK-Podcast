@@ -1,4 +1,4 @@
 TNK-Podcast
 ===========
 
-Podcast Team 
+Web-Based podcast software for social networking.
