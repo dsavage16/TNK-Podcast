@@ -1,18 +1,13 @@
 Source File For Commands
 ===========
 
-This is a point-source command promt for output files only.
-
+This is a point-source command promt for output files only. Command List:
 <executeCommands>
-
-
-1 <link_executeCommand2>
+Expand, <link_executeCommand2>
 <onClick_executeCommand2_open_C:/.driveName.<ex_binary?location?_2&FIND2&_executeEndcommand2_blockLocation7_2>
-2 <link_executeCommand1>
+Vertical, <link_executeCommand1>
 <onClick_Command1_/_open_"source/1"_executeCommand1>
-3 <link_executeCommand_>
+Define, <link_executeCommand_>
 <onClick_Command_/_open_"source/"_executeCommand>
-4 <link_exectuteCommand4>
+Set. <link_exectuteCommand4>
 <onClick_openCommandPrompt_/_open_w/GitHub.SRC.md_"source/"_executeCommand_1-2-3>
-"source/"exitParameters/endCommands>reset
-
