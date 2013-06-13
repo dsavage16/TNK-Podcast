@@ -14,5 +14,5 @@ This is a point-source command promt for output files only.
 <onClick_Command_/_open_"source/"_executeCommand>
 4 <link_exectuteCommand4>
 <onClick_openCommandPrompt_/_open_w/GitHub.SRC.md_"source/"_executeCommand_1-2-3>
-"-exitParameters/endCommands>reset"
+"source/"exitParameters/endCommands>reset
 
