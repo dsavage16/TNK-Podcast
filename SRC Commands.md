@@ -18,3 +18,5 @@ Command File List Of Source Commands
 <2&>FIND<2&>
 
 <onClick_executeCommand2_open_C:/.driveName._binary?location?_2&FIND2&_executeEndcommand2_blockLocation7_2>
+
+<onClick_command7_/_open_"source/7"_executeCommand7>
